@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // ClientBoundDataStore is sent by the server to update, change or remove data store entries on the client.

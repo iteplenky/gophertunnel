@@ -1,6 +1,6 @@
 package packet
 
-import "github.com/sandertv/gophertunnel/minecraft/protocol"
+import "github.com/iteplenky/gophertunnel/minecraft/protocol"
 
 const (
 	CameraShakeTypePositional uint8 = iota

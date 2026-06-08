@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // FeatureRegistry is a packet used to notify the client about the world generation features the server is currently

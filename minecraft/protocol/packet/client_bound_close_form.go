@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // ClientBoundCloseForm is sent by the server to clear the entire form stack of the client. This means that all

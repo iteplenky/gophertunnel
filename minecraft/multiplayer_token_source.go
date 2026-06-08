@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/sandertv/gophertunnel/minecraft/service"
+	"github.com/iteplenky/gophertunnel/minecraft/service"
 	"golang.org/x/oauth2"
 )
 

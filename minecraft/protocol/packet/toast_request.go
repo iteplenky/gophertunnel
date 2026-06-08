@@ -1,6 +1,6 @@
 package packet
 
-import "github.com/sandertv/gophertunnel/minecraft/protocol"
+import "github.com/iteplenky/gophertunnel/minecraft/protocol"
 
 // ToastRequest is a packet sent from the server to the client to display a toast to the top of the screen. These toasts
 // are the same as the ones seen when, for example, loading a new resource pack or obtaining an achievement.

@@ -17,12 +17,12 @@ import (
 	"time"
 
 	"github.com/coreos/go-oidc/v3/oidc"
-	"github.com/sandertv/gophertunnel/minecraft/internal"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/login"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
-	"github.com/sandertv/gophertunnel/minecraft/resource"
-	"github.com/sandertv/gophertunnel/minecraft/service"
+	"github.com/iteplenky/gophertunnel/minecraft/internal"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol/login"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol/packet"
+	"github.com/iteplenky/gophertunnel/minecraft/resource"
+	"github.com/iteplenky/gophertunnel/minecraft/service"
 	"golang.org/x/oauth2"
 )
 

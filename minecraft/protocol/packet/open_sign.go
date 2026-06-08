@@ -1,7 +1,7 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // OpenSign is sent by the server to open a sign for editing. As of 1.19.80, the player can interact with a sign to edit

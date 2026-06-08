@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // Decoder handles the decoding of Minecraft packets sent through an io.Reader. These packets in turn contain

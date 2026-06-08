@@ -2,9 +2,9 @@ package minecraft_test
 
 import (
 	"fmt"
-	"github.com/sandertv/gophertunnel/minecraft"
-	"github.com/sandertv/gophertunnel/minecraft/auth"
-	"github.com/sandertv/gophertunnel/minecraft/protocol/packet"
+	"github.com/iteplenky/gophertunnel/minecraft"
+	"github.com/iteplenky/gophertunnel/minecraft/auth"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol/packet"
 )
 
 func ExampleDial() {

@@ -1,8 +1,8 @@
 package packet
 
 import (
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/nbt"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // JigsawStructureData is sent by the server to let the client know all the rules for jigsaw structures.

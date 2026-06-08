@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/sandertv/gophertunnel/minecraft/service/internal"
+	"github.com/iteplenky/gophertunnel/minecraft/service/internal"
 )
 
 // Environment represents the configuration for a network service in Minecraft: Bedrock Edition.

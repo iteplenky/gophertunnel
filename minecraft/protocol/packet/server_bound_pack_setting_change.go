@@ -2,7 +2,7 @@ package packet
 
 import (
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 )
 
 // ServerBoundPackSettingChange is sent by the client to the server when it changes a setting

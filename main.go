@@ -7,8 +7,8 @@ import (
 	"sync"
 
 	"github.com/pelletier/go-toml"
-	"github.com/sandertv/gophertunnel/minecraft"
-	"github.com/sandertv/gophertunnel/minecraft/auth"
+	"github.com/iteplenky/gophertunnel/minecraft"
+	"github.com/iteplenky/gophertunnel/minecraft/auth"
 	"golang.org/x/oauth2"
 )
 

@@ -12,8 +12,8 @@ import (
 
 	"github.com/go-gl/mathgl/mgl32"
 	"github.com/google/uuid"
-	"github.com/sandertv/gophertunnel/minecraft/internal"
-	"github.com/sandertv/gophertunnel/minecraft/nbt"
+	"github.com/iteplenky/gophertunnel/minecraft/internal"
+	"github.com/iteplenky/gophertunnel/minecraft/nbt"
 )
 
 // Writer implements writing methods for data types from Minecraft packets. Each Packet implementation has one

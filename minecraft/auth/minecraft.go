@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/sandertv/gophertunnel/minecraft/protocol"
+	"github.com/iteplenky/gophertunnel/minecraft/protocol"
 	"golang.org/x/oauth2"
 )
 
